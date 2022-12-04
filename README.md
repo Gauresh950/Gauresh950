@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gauresh950
-- 👀 I’m interested in Developing and Desigining
+- 👀 I’m interested in Developing and Desiging
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on any development sector
 - 📫 How to reach me  Mail: gaureshamat002@gmail.com
